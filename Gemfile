@@ -46,6 +46,6 @@ gem 'sqlite3'
 end
 
 group :production do
-  gem 'pg', '~> 0.11'
+  gem 'pg', '~> 0.13'
   gem 'rails_12factor'
 end
