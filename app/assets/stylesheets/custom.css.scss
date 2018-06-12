@@ -35,6 +35,24 @@ $navbar-default-bg: black;
   font-weight: bold;
 }
 
+.categories{
+  background-image: asset-url("categories.png");
+  background-size: cover;
+  height: 250px;
+}
+
+.users{
+  background-image: asset-url("users.png");
+  background-size: cover;
+  height: 250px;
+}
+
+.articles {
+  background-image: asset-url("articles.jpg");
+  background-size: cover;
+  height: 250px;
+}
+
 .btn-xlarge {
   font-size: 2em;
   background-color: black;
